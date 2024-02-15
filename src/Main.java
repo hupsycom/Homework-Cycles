@@ -55,6 +55,7 @@ public class Main {
         }
 
 
+
         System.out.println("Задача №10");
 
         int m = 2;
